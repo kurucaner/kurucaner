@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Caner
+### Hi there 👋, My name is Caner.
 #### I'm a very passionate software engineer candidate.
 
 I'm from Turkey and I've lived in United States over 6 years now. I really enjoy learning languages and frameworks like Javascript, Ruby, Python, React, Rails, as well as work in WordPress. My passion for software lies with solving problems, dreaming up new ideas, designing elegant interfaces and etc. 
