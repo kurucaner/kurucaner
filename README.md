@@ -12,7 +12,5 @@ Skills: REACT / JS /  RUBY / RAILS / HTML / CSS / POSTGRESQL / AWS
 - 💬 Ask me about anything, I'm happy to help others. Helping others always WIN! 
 - 😄 Pronouns: He/Him 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kurucaner&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kurucaner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kurucaner//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kurucaner//)  
 
