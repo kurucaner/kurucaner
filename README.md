@@ -1,4 +1,4 @@
-## Hi there! I'm Caner, a passionate software engineer! 👋
+## Hi there! I'm Caner, a passionate Software Engineer! 👋
 I'm extremely passionate about software development and engineering. With a strong background in full-stack development, I love creating innovative solutions and bringing ideas to life through code.
 
 🔥 Here are some of the projects I've worked on that I'm really proud of:
