@@ -1,16 +1,40 @@
-### Hi there 👋, My name is Caner.
-#### I'm a very passionate software engineer candidate.
+## Hi there! I'm Caner, a passionate software engineer! 👋
+I'm extremely passionate about software development and engineering. With a strong background in full-stack development, I love creating innovative solutions and bringing ideas to life through code.
 
-I'm from Turkey and I've lived in United States over 6 years now. I really enjoy learning languages and frameworks like Javascript, Ruby, Python, React, Rails, as well as work in WordPress. My passion for software lies with solving problems, dreaming up new ideas, designing elegant interfaces and etc. 
+🔥 Here are some of the projects I've worked on that I'm really proud of:
 
-I'm always curious why something isn't working the way I expect. Being curious instead of being judgemental and critical can mean the difference between the success and failure of a project.
+- MessageDot.com - A platform for sending secure and encrypted messages. Check it out at [MessageDot](https://www.messagedot.com).
 
-Skills: REACT / JS /  RUBY / RAILS / HTML / CSS / POSTGRESQL / AWS
+- One Not Equal One - A unique mobile app available on both the App Store and Google Play Store that challenges your brain with engaging puzzles.
 
-- 🔭 I’m currently working on  a website for the company I'm working for! 
-- 🌱 I’m currently learning Python, AWS, MySQL, Typescript 
-- 💬 Ask me about anything, I'm happy to help others. Helping others always WIN! 
-- 😄 Pronouns: He/Him 
+- Apprecimate - A web app designed to help people show appreciation and gratitude to their colleagues. Visit [Apprecimate](https://www.apprecimate.io) to spread some love!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kurucaner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kurucaner//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kurucaner//)  
+- react-native-use-countdown - A simple yet powerful countdown hook for React and React Native applications. Available as an npm package: [react-native-use-countdown](https://www.npmjs.com/package/react-native-use-countdown)
 
+🚀 My experience with various tech stacks includes:
+
+Front-end:
+
+JavaScript
+TypeScript
+React
+React Native
+NextJS
+Webpack
+Custom hooks
+Back-end:
+
+Node.js
+GraphQL
+Express
+Apollo
+MongoDB
+AWS Elastic Beanstalk
+AWS EC2
+AWS S3
+AWS Load Balancer
+Operational:
+
+Jira
+Jenkins
+Feel free to explore my GitHub repositories and check out my projects. I'm always open to feedback and collaboration. Let's connect and create amazing things together! 😄
