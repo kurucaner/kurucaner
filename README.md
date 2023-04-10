@@ -15,26 +15,28 @@ I'm extremely passionate about software development and engineering. With a stro
 
 Front-end:
 
-JavaScript
-TypeScript
-React
-React Native
-NextJS
-Webpack
-Custom hooks
-Back-end:
+- JavaScript
+- TypeScript
+- React
+- React Native
+- NextJS
+- Webpack
+- Custom hooks
 
-Node.js
-GraphQL
-Express
-Apollo
-MongoDB
-AWS Elastic Beanstalk
-AWS EC2
-AWS S3
-AWS Load Balancer
+Back-end:
+- Node.js
+- GraphQL
+- Express
+- Apollo
+- MongoDB
+- AWS Elastic Beanstalk
+- AWS EC2
+- AWS S3
+- AWS Load Balancer
+
 Operational:
 
-Jira
-Jenkins
+- Jira
+- Jenkins
+
 Feel free to explore my GitHub repositories and check out my projects. I'm always open to feedback and collaboration. Let's connect and create amazing things together! 😄
