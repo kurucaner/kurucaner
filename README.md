@@ -11,6 +11,8 @@ I'm extremely passionate about software development and engineering. With a stro
 
 - react-native-use-countdown - A simple yet powerful countdown hook for React and React Native applications. Available as an npm package: [react-native-use-countdown](https://www.npmjs.com/package/react-native-use-countdown)
 
+- rn-use-background-timer - A custom React Native Hook that calculates the time an app spends in the inactive or background state. Available as an npm package: [rn-use-background-timer](https://www.npmjs.com/package/rn-use-background-timer)
+
 🚀 My experience with various tech stacks includes:
 
 Front-end:
