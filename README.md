@@ -3,11 +3,11 @@ I'm extremely passionate about software development and engineering. With a stro
 
 🔥 Here are some of the projects I've worked on that I'm really proud of:
 
+- Apprecimate - A web app designed to help people show appreciation and gratitude to their colleagues. Visit [Apprecimate](https://www.apprecimate.io) to spread some love!
+
 - MessageDot.com - A platform for sending secure and encrypted messages. Check it out at [MessageDot](https://www.messagedot.com).
 
 - One Not Equal One - A unique mobile app available on both the App Store and Google Play Store that challenges your brain with engaging puzzles.
-
-- Apprecimate - A web app designed to help people show appreciation and gratitude to their colleagues. Visit [Apprecimate](https://www.apprecimate.io) to spread some love!
 
 - react-native-use-countdown - A simple yet powerful countdown hook for React and React Native applications. Available as an npm package: [react-native-use-countdown](https://www.npmjs.com/package/react-native-use-countdown)
 
