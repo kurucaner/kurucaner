@@ -5,10 +5,6 @@ I'm extremely passionate about software development and engineering. With a stro
 
 - Apprecimate - A web app designed to help people show appreciation and gratitude to their colleagues. Visit [Apprecimate](https://www.apprecimate.io) to spread some love!
 
-- MessageDot.com - A platform for sending secure and encrypted messages. Check it out at [MessageDot](https://www.messagedot.com).
-
-- One Not Equal One - A unique mobile app available on both the App Store and Google Play Store that challenges your brain with engaging puzzles.
-
 - react-native-use-countdown - A simple yet powerful countdown hook for React and React Native applications. Available as an npm package: [react-native-use-countdown](https://www.npmjs.com/package/react-native-use-countdown)
 
 - rn-use-background-timer - A custom React Native Hook that calculates the time an app spends in the inactive or background state. Available as an npm package: [rn-use-background-timer](https://www.npmjs.com/package/rn-use-background-timer)
