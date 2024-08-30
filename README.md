@@ -15,6 +15,7 @@ Front-end:
 - TypeScript
 - React
 - React Native
+- Expo
 - NextJS
 - Webpack
 - Custom hooks
