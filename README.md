@@ -18,7 +18,7 @@ Front-end:
 - Expo
 - NextJS
 - Webpack
-- Custom hooks
+- Cypress
 
 Back-end:
 - Node.js
