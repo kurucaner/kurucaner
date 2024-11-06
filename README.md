@@ -9,7 +9,7 @@ I'm deeply passionate about software development and engineering, with a strong 
 - **Tools**: Webpack, Cypress
 
 ### Back-end
-- **Languages & Frameworks**: Node.js, GraphQL, Express, Apollo
+- **Languages & Frameworks**: Node.js, GraphQL, Express, Python, Flask
 - **Databases**: MongoDB
 - **Cloud Services**: AWS (Elastic Beanstalk, EC2, S3, Load Balancer)
 
