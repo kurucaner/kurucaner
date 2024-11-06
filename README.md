@@ -1,39 +1,21 @@
-## Hi there! I'm Caner, a passionate Software Engineer! 👋
-I'm extremely passionate about software development and engineering. With a strong background in full-stack development, I love creating innovative solutions and bringing ideas to life through code.
+# Hi there! I'm Caner, a passionate Software Engineer! 👋
 
-🔥 Here are some of the projects I've worked on that I'm really proud of:
+I'm deeply passionate about software development and engineering, with a strong foundation in full-stack development. I love crafting innovative solutions and bringing ideas to life through code.
 
-- react-native-use-countdown - A simple yet powerful countdown hook for React and React Native applications. Available as an npm package: [react-native-use-countdown](https://www.npmjs.com/package/react-native-use-countdown)
+## Tech Stack
 
-- rn-use-background-timer - A custom React Native Hook that calculates the time an app spends in the inactive or background state. Available as an npm package: [rn-use-background-timer](https://www.npmjs.com/package/rn-use-background-timer)
+### Front-end
+- **Languages & Frameworks**: JavaScript, TypeScript, React, React Native, Expo, NextJS
+- **Tools**: Webpack, Cypress
 
-🚀 My experience with various tech stacks includes:
+### Back-end
+- **Languages & Frameworks**: Node.js, GraphQL, Express, Apollo
+- **Databases**: MongoDB
+- **Cloud Services**: AWS (Elastic Beanstalk, EC2, S3, Load Balancer)
 
-Front-end:
+### Operational
+- **Project Management & CI/CD**: Jira, Jenkins
 
-- JavaScript
-- TypeScript
-- React
-- React Native
-- Expo
-- NextJS
-- Webpack
-- Cypress
+---
 
-Back-end:
-- Node.js
-- GraphQL
-- Express
-- Apollo
-- MongoDB
-- AWS Elastic Beanstalk
-- AWS EC2
-- AWS S3
-- AWS Load Balancer
-
-Operational:
-
-- Jira
-- Jenkins
-
-Feel free to explore my GitHub repositories and check out my projects. I'm always open to feedback and collaboration. Let's connect and create amazing things together! 😄
+Feel free to explore my [GitHub repositories](https://github.com/) to see my projects. I'm always open to feedback and collaboration. Let's connect and create amazing things together! 😄
