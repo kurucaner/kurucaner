@@ -19,3 +19,5 @@ I'm deeply passionate about software development and engineering, with a strong 
 ---
 
 Feel free to explore my [GitHub repositories](https://github.com/) to see my projects. I'm always open to feedback and collaboration. Let's connect and create amazing things together! 😄
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kurucaner&label=Profile%20views&color=0e75b6&style=flat" alt="kurucaner" /> </p>
