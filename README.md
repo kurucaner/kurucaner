@@ -14,7 +14,7 @@ I'm deeply passionate about software development and engineering, with a strong 
 
 ### Back-end
 - **Languages & Frameworks**: Node.js, GraphQL, Express, Python, Flask
-- **Databases**: MongoDB, Postgres
+- **Databases & Caching**: MongoDB, Postgres, Redis
 - **Cloud Services**: AWS (Elastic Beanstalk, EC2, S3, Load Balancer)
 
 ### Operational
