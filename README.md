@@ -1,10 +1,10 @@
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=kurucaner&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=3&order=3" height="200" alt="streak graph"  />
-</div>
-
 # Hi there! I'm Caner, a passionate Software Engineer! 👋
 
 I'm deeply passionate about software development and engineering, with a strong foundation in full-stack development. I love crafting innovative solutions and bringing ideas to life through code.
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kurucaner&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=3&order=3" height="200" alt="streak graph"  />
+</div>
 
 ## Tech Stack
 
