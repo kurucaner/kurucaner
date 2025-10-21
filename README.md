@@ -10,15 +10,15 @@ I'm deeply passionate about software development and engineering, with a strong 
 
 ### Front-end
 - **Languages & Frameworks**: JavaScript, TypeScript, React, React Native, Expo, NextJS
-- **Tools**: Webpack, Cypress
+- **Tools**: Webpack, Cypress, Playwright
 
 ### Back-end
 - **Languages & Frameworks**: Node.js, GraphQL, Express, Python, Flask
-- **Databases**: MongoDB
+- **Databases**: MongoDB, Postgres
 - **Cloud Services**: AWS (Elastic Beanstalk, EC2, S3, Load Balancer)
 
 ### Operational
-- **Project Management & CI/CD**: Jira, Jenkins
+- **Project Management & CI/CD**: Jira, Jenkins, Docker
 
 ---
 
