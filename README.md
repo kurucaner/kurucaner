@@ -9,16 +9,54 @@ I'm deeply passionate about software development and engineering, with a strong 
 ## Tech Stack
 
 ### Front-end
-- **Languages & Frameworks**: JavaScript, TypeScript, React, React Native, Expo, NextJS
-- **Tools**: Webpack, Cypress, Playwright
+- **Languages & Frameworks**:
+  JavaScript, TypeScript, React, React Native, Expo, Next.js
+  
+- **Testing & Tooling**:
+  Webpack, Cypress, Playwright  
+
+---
 
 ### Back-end
-- **Languages & Frameworks**: Node.js, GraphQL, Express, Python, Flask
-- **Databases & Caching**: MongoDB, Postgres, Redis
-- **Cloud Services**: AWS (Elastic Beanstalk, EC2, S3, Load Balancer)
+- **Languages & Frameworks**:  
+  Python, Flask, Node.js, Bun, Express, GraphQL
 
-### Operational
-- **Project Management & CI/CD**: Jira, Jenkins, Docker
+- **Databases & Caching**:  
+  PostgreSQL, MongoDB, Redis  
+
+- **Backend Platforms**:  
+  Supabase (Postgres, Auth, Realtime, Storage)  
+
+- **Real-time & Messaging**:  
+  Socket.IO, WebSockets  
+
+- **Headless CMS**:  
+  Sanity  
+
+---
+
+### Cloud, Storage & Infrastructure
+- **Cloud Providers**:  
+  AWS (EC2, Elastic Beanstalk, S3, Load Balancer, SES), Railway
+
+- **Object Storage**:  
+  MinIO (S3-compatible storage)  
+
+- **Containers**:  
+  Docker  
+
+---
+
+### Operational & DevOps
+- **CI/CD**:  
+  Jenkins, Github (Actions)  
+
+- **Project Management**:  
+  Jira  
+
+- **Observability & Monitoring**:  
+  Datadog (APM, Logs, Metrics, RUM)
+
 
 ---
 
