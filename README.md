@@ -13,7 +13,7 @@ I'm deeply passionate about software development and engineering, with a strong 
   JavaScript, TypeScript, React, React Native, Expo, Next.js
   
 - **Testing & Tooling**:
-  Webpack, Cypress, Playwright  
+  Webpack, Jest, Cypress, Playwright  
 
 ---
 
